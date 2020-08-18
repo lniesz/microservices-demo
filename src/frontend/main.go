@@ -49,6 +49,7 @@ var (
 	whitelistedCurrencies = map[string]bool{
 		"USD": true,
 		"EUR": true,
+		"HUF": true,
 		"CAD": true,
 		"JPY": true,
 		"GBP": true,
